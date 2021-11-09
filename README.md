@@ -1,6 +1,3 @@
-# webpack 配置（下）
+# TuDou-UI
 
-## 使用方法
-
-1. yarn install
-2. yarn start
+[![CircleCI](https://circleci.com/gh/IvanXing/TuDou/tree/master.svg?style=svg)](https://circleci.com/gh/IvanXing/TuDou/tree/master)
